@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class AreaFiguras {
 
     public static void main(String[] args) {
-        int numero1, numero2;
+        int numero1, numero2,numero3;
         Scanner sc = new Scanner(System.in);
         Rectangulo rectangulo = new Rectangulo();
         Rombo rombo = new Rombo();
